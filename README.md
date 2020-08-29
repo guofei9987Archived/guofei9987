@@ -4,8 +4,9 @@
 
 ### Hi there 👋
 
-[![guofei9987](https://github-readme-stats.vercel.app/api?username=guofei9987&show_icons=true&theme=radical&hide=commits,prs)](https://www.guofei.site/)
 
+
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
 
 - 🔭 目前在蚂蚁集团（算法，安全）
 - 👯 历史工作经历：中体彩（算法，竞猜型彩票定价） -> 京东（Y事业部，算法，自营商品动态定价）
@@ -16,6 +17,10 @@
 
 [![scikit-opt](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=scikit-opt&theme=radical)](https://github.com/guofei9987/scikit-opt)
 [![blind_watermark](https://github-readme-stats.vercel.app/api/pin/?username=guofei9987&repo=blind_watermark&theme=radical)](https://github.com/guofei9987/blind_watermark)
+
+
+[![guofei9987](https://github-readme-stats.vercel.app/api?username=guofei9987&show_icons=true&theme=radical&hide=commits,prs)](https://www.guofei.site/)
+
 
 <!--
 ### Hi there 👋
